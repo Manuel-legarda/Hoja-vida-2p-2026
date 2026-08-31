@@ -14,16 +14,16 @@ public class DatosHojaVida {
     private String github = "github.com/Manuel-legarda";
     
     // ========== PRIMERA PARTE TUS DATOS AQUÍ ==========
-    private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos","RAG"};
-    private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
+    private String[] habilidadesTecnicas = {"React native", "Git y GitHub", "Pensamiento Computacional", "Estructura de Datos","RAG"};
+    private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas","empatia" };
     private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
     private String perfil = "Actualemnte me encuentro desarrolladno sistemas con agentes inteligentes, basados en arquietectura RAG, en juegos serios y análisis de datos";
     private String experiencia = "2022-2026\nDocente - Unimayor\nPopayán";
     private String educacion = "2016-2020\n Tecnología en desarrrollo de software-Ingeniería Informática - Unimayor\nPopayán";
     
     // ========== SEGUNDA PARTE TUS DATOS AQUÍ ==========
-    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
+    private String[] areasInteres = {"videojuegos", "Inteligencia artificial ", "computación cuantica","Blockchain"};
+    private String proyectos = "• Banca financiera - trabajo de clase de estrucutra para aplicar el desarrollo de conceptos de Clean code y SOLID";
     // =================================================
 
     public String getNombre() { return nombre; }
