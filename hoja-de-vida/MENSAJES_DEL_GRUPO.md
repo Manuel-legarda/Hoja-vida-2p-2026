@@ -4,6 +4,6 @@ Documento para el ejercicio colaborativo.
 
 ---
 
-## Tu mensaje aquí
+### esta es mi parte jhessid santiago de jesus ruiz 
 
 *(Agrega tu sección cuando hagas el Ejercicio 3)*
