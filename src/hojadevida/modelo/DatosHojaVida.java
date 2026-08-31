@@ -18,9 +18,9 @@ public class DatosHojaVida {
     private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
     private String perfil = "Estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones y la resolución de problemas complejos.";
 
-    private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
-    private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
-    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
+    private String experiencia = "2026-2026\n[Estudiante] - [Cisco networking Academy]\n[Popayan, Colombia]";
+    private String educacion = "2024-2026\n[Estudiante] - [institucion univercitaria colegio mayor del cauca]\n[Popayan, Colombia]";
+    private String[] areasInteres = {"hacking ético", "Ciberseguridad", "Ingeniería de Software"};
     private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
     // =================================================
 
