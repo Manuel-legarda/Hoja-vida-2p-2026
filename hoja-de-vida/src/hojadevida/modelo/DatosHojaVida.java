@@ -14,12 +14,12 @@ public class DatosHojaVida {
     private String github = "github.com/Manuel-legarda";
     
     // ========== PRIMERA PARTE TUS DATOS AQUÍ ==========
-    private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos"};
+    private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos","RAG"};
     private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
     private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
-    private String perfil = "Escribe aquí 2-3 oraciones sobre ti, tus intereses y objetivos profesionales.";
-    private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
-    private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
+    private String perfil = "Actualemnte me encuentro desarrolladno sistemas con agentes inteligentes, basados en arquietectura RAG, en juegos serios y análisis de datos";
+    private String experiencia = "2022-2026\nDocente - Unimayor\nPopayán";
+    private String educacion = "2016-2020\n Tecnología en desarrrollo de software-Ingeniería Informática - Unimayor\nPopayán";
     
     // ========== SEGUNDA PARTE TUS DATOS AQUÍ ==========
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
