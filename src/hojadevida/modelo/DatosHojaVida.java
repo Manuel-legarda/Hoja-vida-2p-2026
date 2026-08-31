@@ -12,10 +12,12 @@ public class DatosHojaVida {
     private String telefono = "+57 314 754 6420";
     private String email = "abermudez@unimayor.educo";
     private String github = "github.com/abermudez-maker";
-    private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos"};
+
+    private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos", "hacking ético"};
     private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
     private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
-    private String perfil = "Escribe aquí 2-3 oraciones sobre ti, tus intereses y objetivos profesionales.";
+    private String perfil = "Estudiante de Ingeniería de Software con interés en el desarrollo de aplicaciones y la resolución de problemas complejos.";
+
     private String experiencia = "2024-2025\n[Cargo] - [Empresa]\n[Ciudad]";
     private String educacion = "2020-2025\n[Carrera] - [Universidad]\n[Ciudad]";
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
