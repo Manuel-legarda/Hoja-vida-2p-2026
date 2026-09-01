@@ -6,7 +6,7 @@ package hojadevida.modelo;
 public class DatosHojaVida {
 
     // ========== PERSONALIZA TUS DATOS AQUÍ ==========
-    private String nombre = "Alex Santiago Pérez Illera";
+    private String nombre = "Alex Santiago Pérez Iller";
     private String titulo = "Tecnologia en desarrollo de software";
     private String ciudad = "Popayán, Colombia";
     private String telefono = "+57 321 737 7659";
