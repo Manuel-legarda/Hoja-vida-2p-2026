@@ -43,7 +43,7 @@ Documento para el ejercicio colaborativo.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-### mensaje de JUAN PABLO QUISOBONI GOMEZ: Solo Brawhalla top 1 de la region
+### mensaje de JUAN PABLO QUISOBONI GOMEZ: Solo Brawhalla top 1 de la Region
 
 
 *(Agrega tu sección cuando hagas el Ejercicio 3)*
