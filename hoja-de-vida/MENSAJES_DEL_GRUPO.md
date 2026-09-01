@@ -3,7 +3,7 @@
 Documento para el ejercicio colaborativo.
 
 ---
-
+### ESTA ES MI PARTE JUAN DAVID MUÑOZ FERNANDEZ
 ### esta es mi parte jhessid santiago de jesus ruiz 
 
 ### mensaje de JORDAN ALEXANDER HOYOS CALDON
