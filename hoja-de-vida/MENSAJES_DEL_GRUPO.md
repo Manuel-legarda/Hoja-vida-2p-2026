@@ -3,6 +3,8 @@
 Documento para el ejercicio colaborativo.
 
 ---
+### esta es mi parte juanita valentina martinez melengue uwu :3
+
 ### ESTA ES MI PARTE JUAN DAVID MUÑOZ FERNANDEZ
 ### esta es mi parte jhessid santiago de jesus ruiz 
 
