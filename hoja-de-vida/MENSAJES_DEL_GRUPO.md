@@ -17,6 +17,9 @@ Documento para el ejercicio colaborativo.
 ### esta es mi parte Karen Gabriela Castillo Muñoz
 
 ### este es mi aporte Nicole Valeria Henao Fajardo 
+
+## esta es mi parte Daniel Eduardo Ruiz
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
