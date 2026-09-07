@@ -18,7 +18,7 @@ Documento para el ejercicio colaborativo.
 
 ### este es mi aporte Nicole Valeria Henao Fajardo 
 
-## esta es mi parte Daniel Eduardo Ruiz
+## esta es mi parte Daniel Eduardo Ruiz 
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
